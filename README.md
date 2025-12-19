@@ -29,15 +29,34 @@ This project is developed as part of an **academic / FYP project** to understand
 
 ---
 
-## 📱 Screenshots
+## 📱 App Screenshots
 
-| Home Screen | Now Playing | Song List |
-|------------|-------------|-----------|
-| ![Home](screenshots/home.png) | ![Player](screenshots/player.png) | ![List](screenshots/list.png) |
-
-> 📌 *Screenshots are placed inside the `screenshots` folder.*
+### 🏠 Home Screen
+![Home Screen](screenshots/home.png)
+*Welcome screen with Get Started button*
 
 ---
 
-## 📂 Project Structure
+### 🎧 Music Permission
+![Music Permission](screenshots/permission_music.png)
+*Permission request to access music files*
+
+---
+
+### 📂 Storage Access
+![Storage Access](screenshots/storage_access.png)
+*Request for local storage access*
+
+---
+
+### 🎶 Music Playlist
+![Music Playlist](screenshots/playlist.png)
+*Displays all available music tracks*
+
+---
+
+### ▶️ Now Playing Screen
+![Now Playing](screenshots/now_playing.png)
+*Music player with play, pause, next, and previous controls*
+
 
