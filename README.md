@@ -32,25 +32,25 @@ This project is developed as part of an **academic / FYP project** to understand
 ## 📱 App Screenshots
 
 ### 🏠 Home Screen
-![Home Screen](screenshots/home.png)
+![Home Screen](screenshot/home.jpeg)
 *Welcome screen with Get Started button*
 
 ---
 
 ### 🎧 Music Permission
-![Music Permission](screenshots/permission_music.png)
+![Music Permission](screenshot/permission_music.jpeg)
 *Permission request to access music files*
 
 ---
 
 ### 📂 Storage Access
-![Storage Access](screenshots/storage_access.png)
+![Storage Access](screenshot/storage_access.jpeg)
 *Request for local storage access*
 
 ---
 
 ### 🎶 Music Playlist
-![Music Playlist](screenshots/playlist.png)
+![Music Playlist](screenshot/playlist.jpeg)
 *Displays all available music tracks*
 
 ---
